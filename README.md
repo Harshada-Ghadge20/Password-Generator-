@@ -35,7 +35,7 @@ Project Purpose
 
 This project was created to practice Python programming concepts and understand how random password generation works in real-world applications.
 
-It also helps improve:
+It also helps improve:-
 
 * Logical thinking
 * Code optimization
