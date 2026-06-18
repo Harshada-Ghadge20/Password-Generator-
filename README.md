@@ -51,5 +51,8 @@ How It Works
     * At least one special character
 3. Remaining characters are generated randomly
 4. Password characters are shuffled for better security
-5. Final password is displayed.
+   Final password is Displayed
+
+
+
 
